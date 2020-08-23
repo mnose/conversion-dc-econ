@@ -1,4 +1,5 @@
-Conversion file
+Conversions functions needed:
 -Dollars to cents
 -Gallons to liters
 -Hours to minutes
+-Feet to Inches
